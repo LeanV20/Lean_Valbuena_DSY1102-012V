@@ -1,0 +1,5 @@
+numero = 0
+numero = int(input("Digite um numero entero: "))
+    if numero >= 0:
+        print( "el numero es positivo")
+    else print( "el numero es negativo"):
